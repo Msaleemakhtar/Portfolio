@@ -26,7 +26,7 @@ const Data = [
       description:
         "The development of a todo application involved utilizing the Chakra UI library and the Next.js framework, with the addition of TypeScript.",
     
-       url: "/image22.jpeg ",
+       url: "/todo.jpeg ",
       github: "https://github.com/Msaleemakhtar/TodoApp",
       link: "https://todo-app-six-beta.vercel.app/",
       imgAlt: "todo image"
@@ -69,8 +69,8 @@ const Projects = () => {
                       <Image
                         src={project.url}
                         alt={project.imgAlt}
-                        width={1000}
-                        height={1000}
+                        width={400}
+                        height={400}
                         className=" rounded-xl shadow-xl hover:opacity-70"
                       />
                     </Link>

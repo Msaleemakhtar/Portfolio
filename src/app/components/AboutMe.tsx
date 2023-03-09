@@ -84,7 +84,7 @@ const AboutSection = () => {
               I firmly believe in the importance of continuous growth and
               innovation. I am excited to explore new opportunities and
               challenge myself to push the boundaries of what is possible in my
-              career. 🙂
+              career. 
             </p>
           </div>
           <div className="text-center md:flex-1 md:text-left">
