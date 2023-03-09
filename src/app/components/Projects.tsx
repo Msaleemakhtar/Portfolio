@@ -17,6 +17,16 @@ const Data = [
     link: "https://pricing-ui-mocha-two.vercel.app/",
     imgAlt: "pricing ui image",
   },
+ 
+  {
+    name: "Panverse Dao Syllabus Website",
+    description:
+      " Panverse Dao Syllabus Website was developed using a combination of Chakra UI, Next.js, and TypeScript. .",
+    url: "/web3.jpeg",
+    github: "https://github.com/Msaleemakhtar/PanaverseDao1",
+    link: "https://panaverse-dao1.vercel.app/",
+    imgAlt: "panaverse imaage",
+  },
   {
     name: "Todo App",
     description:
@@ -26,15 +36,6 @@ const Data = [
     github: "https://github.com/Msaleemakhtar/TodoApp",
     link: "https://todo-app-six-beta.vercel.app/",
     imgAlt: "todo image",
-  },
-  {
-    name: "Panverse Dao Syllabus Website",
-    description:
-      " Panverse Dao Syllabus Website was developed using a combination of Chakra UI, Next.js, and TypeScript. .",
-    url: "/web3.jpeg",
-    github: "https://github.com/Msaleemakhtar/PanaverseDao1",
-    link: "https://panaverse-dao1.vercel.app/",
-    imgAlt: "panaverse imaage",
   },
 ];
 
