@@ -32,7 +32,7 @@ const Data = [
     description:
       "The development of a todo application involved utilizing the Chakra UI library and the Next.js framework, with the addition of TypeScript.",
 
-    url: "/todo.jpeg ",
+    url: "/todo.jpeg",
     github: "https://github.com/Msaleemakhtar/TodoApp",
     link: "https://todo-app-six-beta.vercel.app/",
     imgAlt: "todo image",
